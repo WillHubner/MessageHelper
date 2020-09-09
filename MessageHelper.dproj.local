@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/09/09 16:43:45.367,=rtl.dcp</Transaction>
+    <Transaction>2020/09/09 17:07:05.721,=C:\Users\Willian Hubner\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2020/09/09 17:10:05.704,C:\BrProjetos\MessageHelper\trunk\src\Form.Helper.Message.pas=C:\Users\Willian Hubner\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2020/09/09 17:10:15.705,C:\BrProjetos\MessageHelper\trunk\src\MessageHelper.dproj=C:\Users\Willian Hubner\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2020/09/09 17:10:24.437,=fmx.dcp</Transaction>
+    <Transaction>2020/09/09 17:11:31.185,C:\BrProjetos\MessageHelper\trunk\MessageHelper.dproj=C:\BrProjetos\MessageHelper\trunk\src\MessageHelper.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
