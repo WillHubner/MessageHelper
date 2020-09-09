@@ -10,4 +10,4 @@ Declare Form.Helper.Message on destiny form.
 Mensagem('Ok message!', tmOK);
 Mensagem('Error message!', tmErro);
 ```
-![](https://github.com/WillHubner/MessageHelper/blob/master/img/example.PNG);
+![](https://github.com/WillHubner/MessageHelper/blob/master/img/example.PNG)
