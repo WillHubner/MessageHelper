@@ -4,6 +4,10 @@ Popup message helper to FMX Forms.
 
 ### How to use
 
+```delphi
+Boss install https://github.com/WillHubner/MessageHelper
+```
+
 Declare Form.Helper.Message on destiny form.
 
 ```delphi
